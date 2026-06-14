@@ -1,37 +1,22 @@
-<!--
-### Hi there 👋
+# Carlo Perassi
 
-**carlok/carlok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software systems, distributed computing, machine learning, scientific computing
+experiments, and public working notes.
 
-Here are some ideas to get you started:
+## Start here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [GitHub project atlas and research hub](https://carlok.github.io/)
+- [Personal site](https://carlo.perassi.com/)
+- [Short CV](https://carlo.perassi.com/cv/)
+- [WIP articles and book PDFs](https://carlok.github.io/book/pdfs/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlok&show_icons=true&count_private=true&theme=highcontrast)
+## Current public threads
 
-Don't forget to have a look at **[my gist](https://gist.github.com/carlok)** and **[my website](https://carlo.perassi.com)** 👋.
--->
+- Small software systems that can be inspected, run, and improved.
+- Agents, automation, and source-code review workflows.
+- Visual and interactive experiments for collective or exploratory interfaces.
+- Mathematical, philosophical, and computational drafts moving toward a book.
 
-* [my website](https://carlo.perassi.com)
-* [my WIP articles & book](https://carlok.github.io/book/pdfs/)
-
-<!--
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=carlok&show_icons=true&theme=onedark)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=carlok&theme=onedark)
--->
-
-<!--
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=carlok&layout=compact&theme=onedark)
--->
-
-<!--
-https://githubreadmestatsfast.vercel.app/
--->
+For the broader personal context, start from
+[carlo.perassi.com](https://carlo.perassi.com/). For the technical map, start
+from [carlok.github.io](https://carlok.github.io/).
