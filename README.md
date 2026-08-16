@@ -1,4 +1,3 @@
-- [GitHub project atlas and research hub](https://carlok.github.io/)
 - [WIP articles and book PDFs](https://carlok.github.io/book/pdfs/)
 - [Personal site](https://carlo.perassi.com/) & [Short CV](https://carlo.perassi.com/cv/)
 
