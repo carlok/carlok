@@ -1,6 +1,6 @@
 - [My GitHub home](https://carlok.github.io)
 - [WIP articles and book PDFs](https://carlok.github.io/book/pdfs/)
-- [Personal site](https://carlo.perassi.com/) & [Short CV](https://carlo.perassi.com/cv/)
+- [Personal site](https://carlo.perassi.com/) & [Short CV](https://carlok.github.io/cv/)
 
 <!--
 ## Current public threads
